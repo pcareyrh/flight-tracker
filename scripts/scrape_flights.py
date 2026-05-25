@@ -14,7 +14,7 @@ import sys
 from datetime import datetime, timezone
 
 # ── Constants ───────────────────────────────────────────────────────────────
-ORIGIN      = "NTL"   # Newcastle Airport, NSW
+ORIGIN      = "SYD"   # Sydney Airport, NSW
 DESTINATION = "MCY"   # Sunshine Coast Airport, QLD
 DEPART_DATE = "2026-09-26"
 RETURN_DATE = "2026-10-03"

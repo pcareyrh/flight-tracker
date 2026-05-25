@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-05-25T12:11:43+00:00",
+    "airline": "Jetstar",
+    "flight_out": "JQ788",
+    "depart_out": "13:20",
+    "arrive_out": "14:55",
+    "flight_return": "JQ787",
+    "depart_return": "—",
+    "arrive_return": "—",
+    "cabin": "Economy",
+    "price_aud": 240,
+    "direct": true,
+    "source_url": "https://www.jetstar.com/au/en/flights/sunshine-coast",
+    "notes": "unverified – manual check recommended; price from general fare data (Jetstar return ~$240), arrive_out estimated (1h35m flight), return times not confirmed for 3 Oct 2026"
+  },
+  {
+    "timestamp": "2026-05-25T12:11:43+00:00",
+    "airline": "Virgin Australia",
+    "flight_out": "VA477",
+    "depart_out": "—",
+    "arrive_out": "—",
+    "flight_return": "—",
+    "depart_return": "—",
+    "arrive_return": "—",
+    "cabin": "Economy",
+    "price_aud": 195,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended; price estimated from one-way fares (SYD→MCY from $76, MCY→SYD from $89 per VA website); flight times not confirmed for specific dates"
+  },
+  {
+    "timestamp": "2026-05-25T12:11:43+00:00",
+    "airline": "Qantas",
+    "flight_out": "—",
+    "depart_out": "—",
+    "arrive_out": "—",
+    "flight_return": "—",
+    "depart_return": "—",
+    "arrive_return": "—",
+    "cabin": "Economy",
+    "price_aud": 247,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/book-a-trip/flights.html",
+    "notes": "unverified – manual check recommended; price from search results citing cheapest Qantas SYD-MCY at $247; flight numbers/times not confirmed for 26 Sep/3 Oct 2026 specific dates"
+  }
+]
