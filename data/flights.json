@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-05-25T20:14:25+00:00",
+    "airline": "Jetstar",
+    "flight_out": "JQ786",
+    "depart_out": "10:50",
+    "arrive_out": "12:25",
+    "flight_return": "JQ791",
+    "depart_return": "19:00",
+    "arrive_return": "20:35",
+    "cabin": "Economy",
+    "price_aud": 240,
+    "direct": true,
+    "source_url": "https://www.jetstar.com/au/en/home",
+    "notes": "unverified – manual check recommended. Price based on general search results showing Jetstar SYD-MCY return from ~$240. Schedule from early-2026 timetable data (JQ786 dep SYD 10:50; JQ791 dep MCY 19:00); exact Sep 26 / Oct 3 times may differ. Arrival times estimated at +1h35m (no DST on either date)."
+  },
+  {
+    "timestamp": "2026-05-25T20:14:25+00:00",
+    "airline": "Virgin Australia",
+    "flight_out": "VA491",
+    "depart_out": "—",
+    "arrive_out": "—",
+    "flight_return": "VA484",
+    "depart_return": "—",
+    "arrive_return": "—",
+    "cabin": "Economy",
+    "price_aud": 220,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. Price estimated from Virgin Australia published minimums (from $76 SYD→MCY + $89 MCY→SYD) plus expected premium for specific Sep 26 / Oct 3 dates. Flight numbers VA491 (SYD→MCY) and VA484 (MCY→SYD) confirmed operating this route; departure/arrival times not confirmed for these exact dates."
+  },
+  {
+    "timestamp": "2026-05-25T20:14:25+00:00",
+    "airline": "Qantas",
+    "flight_out": "QF1578",
+    "depart_out": "20:20",
+    "arrive_out": "21:55",
+    "flight_return": "QF1577",
+    "depart_return": "12:05",
+    "arrive_return": "14:00",
+    "cabin": "Economy",
+    "price_aud": 280,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/book-a-trip/flights.html",
+    "notes": "unverified – manual check recommended. Price estimated from Qantas one-way from ~$104 SYD-MCY; return total estimated at $280. QF1578 (SYD→MCY) and QF1577 (MCY→SYD) schedules sourced from 2026 timetable data; exact Sep 26 / Oct 3 availability and pricing require direct booking check."
+  }
+]
