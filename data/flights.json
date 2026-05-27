@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-05-27T20:12:00+00:00",
+    "airline": "Jetstar",
+    "flight_out": "JQ786",
+    "depart_out": "13:40",
+    "arrive_out": "15:15",
+    "flight_return": "JQ787",
+    "depart_return": "17:50",
+    "arrive_return": "19:25",
+    "cabin": "Economy",
+    "price_aud": 163,
+    "direct": true,
+    "source_url": "https://www.jetstar.com/au/en/flights/sunshine-coast",
+    "notes": "unverified \u2013 manual check recommended; schedule from Apr 2026 Sat data (JQ786 SYD 13:40\u2192MCY 15:15, JQ787 MCY 17:50\u2192SYD 19:25); price estimated from nearby Sep 2026 fares (~$110 for 18-20 Sep; school-holiday premium applied)"
+  },
+  {
+    "timestamp": "2026-05-27T20:12:00+00:00",
+    "airline": "Virgin Australia",
+    "flight_out": "VA485",
+    "depart_out": "08:10",
+    "arrive_out": "09:56",
+    "flight_return": "VA492",
+    "depart_return": "13:35",
+    "arrive_return": "15:10",
+    "cabin": "Economy",
+    "price_aud": 188,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified \u2013 manual check recommended; VA485 daily confirmed (SYD 08:10\u2192MCY 09:56); VA492 return arrival time estimated ~1h35m from depart 13:35; price estimated from early Sep 2026 data ($147 for 7-10 Sep; school-holiday premium applied)"
+  },
+  {
+    "timestamp": "2026-05-27T20:12:00+00:00",
+    "airline": "Qantas",
+    "flight_out": "QF5784",
+    "depart_out": "06:15",
+    "arrive_out": "07:50",
+    "flight_return": "QF1589",
+    "depart_return": "11:41",
+    "arrive_return": "13:20",
+    "cabin": "Economy",
+    "price_aud": 298,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/flight-deals/flights-from-sydney-to-sunshine-coast-maroochydore.html/syd/mcy/economy",
+    "notes": "unverified \u2013 manual check recommended; QF5784 confirmed Sat service (landed MCY 07:48 on 23 May 2026); depart SYD time estimated; QF1589 daily MCY 11:41 confirmed, arrival SYD estimated ~1h40m; price extrapolated from $247 Jun 2026 cheapest with Sep school-holiday premium"
+  }
+]
