@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-05-28T20:13:11+00:00",
+    "airline": "Jetstar",
+    "flight_out": "JQ788",
+    "depart_out": "13:20",
+    "arrive_out": "15:00",
+    "flight_return": "JQ785",
+    "depart_return": "08:20",
+    "arrive_return": "10:00",
+    "cabin": "Economy",
+    "price_aud": 133,
+    "direct": true,
+    "source_url": "https://www.jetstar.com/au/en/flights/sunshine-coast",
+    "notes": "unverified – manual check recommended. Price is Google Flights general lowest return fare (not date-specific). Sep 26–Oct 3 spans QLD school holidays; actual fares likely higher. JQ788 schedule based on 2026 timetable data; JQ785 MCY→SYD confirmed effective through 2026-10-03."
+  },
+  {
+    "timestamp": "2026-05-28T20:13:11+00:00",
+    "airline": "Virgin Australia",
+    "flight_out": "VA487",
+    "depart_out": "15:05",
+    "arrive_out": "16:40",
+    "flight_return": "VA486",
+    "depart_return": "13:40",
+    "arrive_return": "15:15",
+    "cabin": "Economy",
+    "price_aud": 178,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. Price based on Travelocity general round-trip fare (not date-specific). Sep 26–Oct 3 spans QLD school holidays; actual fares likely higher. VA487 SYD→MCY departs 15:05; VA486 MCY→SYD departs 13:40 based on 2026 schedule data."
+  },
+  {
+    "timestamp": "2026-05-28T20:13:11+00:00",
+    "airline": "Qantas",
+    "flight_out": "QF1580",
+    "depart_out": "14:50",
+    "arrive_out": "16:30",
+    "flight_return": "QF1589",
+    "depart_return": "11:10",
+    "arrive_return": "14:00",
+    "cabin": "Economy",
+    "price_aud": 243,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/flight-deals/flights-from-sydney-to-sunshine-coast-maroochydore.html/syd/mcy/economy",
+    "notes": "unverified – manual check recommended. Price is sum of Travelocity one-way fares: $104 SYD→MCY + $139 MCY→SYD (general, not date-specific). QF1589 operates weekdays; Saturday 3 Oct service may use a different flight number. Sep 26–Oct 3 spans school holidays; actual fares likely higher."
+  }
+]
