@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-05-29T20:11:25Z",
+    "airline": "Jetstar",
+    "flight_out": "JQ786",
+    "depart_out": "10:50",
+    "arrive_out": "11:25",
+    "flight_return": "JQ785",
+    "depart_return": "08:25",
+    "arrive_return": "11:05",
+    "cabin": "Economy",
+    "price_aud": 274,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/routes/syd/mcy/sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended. Schedule (JQ786/JQ785) effective from Feb 2026; JQ785 is typically a weekday service (A321neo) – Saturday Oct 3 may operate as JQ787. Price estimated from general fare ranges for SYD-MCY (Skyscanner from $128; return tickets from ~$240); actual Sep 26 / Oct 3 Saturday school-holiday fare not confirmed."
+  },
+  {
+    "timestamp": "2026-05-29T20:11:25Z",
+    "airline": "Virgin Australia",
+    "flight_out": "VA477",
+    "depart_out": "—",
+    "arrive_out": "—",
+    "flight_return": "VA492",
+    "depart_return": "13:35",
+    "arrive_return": "16:10",
+    "cabin": "Economy",
+    "price_aud": 318,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. VA477 departure/arrival times for Sep 26 outbound not confirmed (flight operated infrequently in late 2025 data). VA492 MCY→SYD schedule from Feb 2026 data. Price estimated from general fare ranges (Virgin Australia from AUD $91 one-way; return estimate for Sat school-holiday dates)."
+  },
+  {
+    "timestamp": "2026-05-29T20:11:25Z",
+    "airline": "Qantas",
+    "flight_out": "QF902",
+    "depart_out": "09:55",
+    "arrive_out": "11:35",
+    "flight_return": "QF903",
+    "depart_return": "—",
+    "arrive_return": "—",
+    "cabin": "Economy",
+    "price_aud": 418,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/book-a-trip/flights.html",
+    "notes": "unverified – manual check recommended. QF902 SYD→MCY schedule (09:55→11:35, B737-800) confirmed from 2026 data. QF903 return flight number inferred from outbound pairing convention; MCY→SYD schedule for Oct 3 not confirmed. Price estimated from general fare ranges (Qantas cheapest observed ~$247 for off-peak Jun dates; Sep school-holiday Saturday expected higher)."
+  }
+]
