@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-03T00:00:00+00:00",
+    "airline": "Jetstar",
+    "flight_out": "JQ786",
+    "depart_out": "13:40",
+    "arrive_out": "15:15",
+    "flight_return": "JQ787",
+    "depart_return": "16:20",
+    "arrive_return": "17:37",
+    "cabin": "Economy",
+    "price_aud": 239,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/routes/syd/mcy/sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended. Price estimate based on Skyscanner route page showing from $128 one-way SYD-MCY + $110 MCY-SYD; specific Sep 26 / Oct 3 2026 fares not confirmed due to booking engine restrictions. JQ786 departs daily 13:40 AEST; JQ787 return time from Apr 2026 historical data."
+  },
+  {
+    "timestamp": "2026-06-03T00:00:00+00:00",
+    "airline": "Virgin Australia",
+    "flight_out": "VA477",
+    "depart_out": "09:05",
+    "arrive_out": "10:40",
+    "flight_return": "VA484",
+    "depart_return": "12:45",
+    "arrive_return": "15:20",
+    "cabin": "Economy",
+    "price_aud": 249,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. Virgin Australia advertises from AUD $91 one-way SYD-MCY; return estimate based on two legs minimum. VA477 runs Mon-Sat; both flights are direct on Boeing 737-800. Specific Sep 26 / Oct 3 2026 fares not confirmed."
+  },
+  {
+    "timestamp": "2026-06-03T00:00:00+00:00",
+    "airline": "Qantas",
+    "flight_out": "QF1578",
+    "depart_out": "17:10",
+    "arrive_out": "18:45",
+    "flight_return": "QF1579",
+    "depart_return": "07:00",
+    "arrive_return": "08:50",
+    "cabin": "Economy",
+    "price_aud": 319,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/flight-deals/flights-from-sydney-to-sunshine-coast-maroochydore.html/syd/mcy/economy",
+    "notes": "unverified – manual check recommended. Qantas economy fares on this route from ~$139 one-way; return estimate. QF1578 typically operates Mon-Fri + Sun (Saturday service may use different flight number). QF1579 MCY-SYD confirmed schedule departs 07:00 arrives 08:50 through Oct 3 2026 (A220-300). Specific Sep 26 / Oct 3 2026 fares not confirmed."
+  }
+]
