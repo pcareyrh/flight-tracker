@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-05T20:11:21+00:00",
+    "airline": "Jetstar",
+    "flight_out": "—",
+    "depart_out": "—",
+    "arrive_out": "—",
+    "flight_return": "—",
+    "depart_return": "—",
+    "arrive_return": "—",
+    "cabin": "Economy",
+    "price_aud": 439,
+    "direct": false,
+    "source_url": "https://www.skyscanner.com.au/routes/ntl/mcy/newcastle-williamtown-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended; no direct NTL-MCY service; connects via SYD; price from Skyscanner comparable Sep 2026 date ($439); school holiday period may affect actual fare"
+  },
+  {
+    "timestamp": "2026-06-05T20:11:21+00:00",
+    "airline": "Virgin Australia",
+    "flight_out": "—",
+    "depart_out": "—",
+    "arrive_out": "—",
+    "flight_return": "—",
+    "depart_return": "—",
+    "arrive_return": "—",
+    "cabin": "Economy",
+    "price_aud": 442,
+    "direct": false,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-newcastle-au-to-sunshine-coast",
+    "notes": "unverified – manual check recommended; no direct NTL-MCY service; connects via SYD; price from Skyscanner comparable Oct 2026 date ($442); school holiday period may affect actual fare"
+  },
+  {
+    "timestamp": "2026-06-05T20:11:21+00:00",
+    "airline": "Qantas",
+    "flight_out": "—",
+    "depart_out": "—",
+    "arrive_out": "—",
+    "flight_return": "—",
+    "depart_return": "—",
+    "arrive_return": "—",
+    "cabin": "Economy",
+    "price_aud": 474,
+    "direct": false,
+    "source_url": "https://www.kayak.com.au/flight-routes/Newcastle-Williamtown-NTL/Maroochydore-Sunshine-Coast-MCY",
+    "notes": "unverified – manual check recommended; no direct NTL-MCY service; connects via SYD; price from KAYAK general fare data ($474 cheapest found); school holiday period may affect actual fare"
+  }
+]

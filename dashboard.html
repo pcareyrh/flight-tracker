@@ -256,15 +256,87 @@
   <h1>Flight Price <span>Tracker</span></h1>
   <p class="sub">Outbound 26 Sep 2026 &nbsp;·&nbsp; Return 3 Oct 2026</p>
   <div class="meta-bar">
-    <span>Updated <b>25 May 2026 11:04 UTC</b></span>
-    <span>Snapshots <b>0</b></span>
+    <span>Updated <b>05 Jun 2026 20:11 UTC</b></span>
+    <span>Snapshots <b>3</b></span>
   </div>
 </header>
 
-<p class="no-data">No flight data yet. The routine will populate this dashboard on its first run.</p>
+
 
 <section class="cards" aria-label="Latest prices by airline">
-  <p class="no-data">No data yet.</p>
+  
+        <div class="card" style="--accent:#ff6900">
+          <div class="card-header">
+            <span class="airline-name">Jetstar</span>
+            <span class="badge stop">Via stopover</span>
+          </div>
+          <div class="price-row">
+            <span class="price">$439</span>
+            <span class="currency">AUD return</span>
+            
+          </div>
+          <div class="legs">
+            <div class="leg">
+              <span class="leg-label">OUT 26 Sep</span>
+              <span class="leg-info">— · — → —</span>
+            </div>
+            <div class="leg">
+              <span class="leg-label">RET 3 Oct</span>
+              <span class="leg-info">— · — → —</span>
+            </div>
+          </div>
+          <div class="spark-row"><span class='no-history'>Not enough data yet</span></div>
+          <p class="unverified">⚠ Unverified – manual check recommended</p>
+          <a class="book-btn" href="https://www.skyscanner.com.au/routes/ntl/mcy/newcastle-williamtown-to-sunshine-coast.html" target="_blank" rel="noopener">View fare →</a>
+        </div>
+        <div class="card" style="--accent:#e4002b">
+          <div class="card-header">
+            <span class="airline-name">Virgin Australia</span>
+            <span class="badge stop">Via stopover</span>
+          </div>
+          <div class="price-row">
+            <span class="price">$442</span>
+            <span class="currency">AUD return</span>
+            
+          </div>
+          <div class="legs">
+            <div class="leg">
+              <span class="leg-label">OUT 26 Sep</span>
+              <span class="leg-info">— · — → —</span>
+            </div>
+            <div class="leg">
+              <span class="leg-label">RET 3 Oct</span>
+              <span class="leg-info">— · — → —</span>
+            </div>
+          </div>
+          <div class="spark-row"><span class='no-history'>Not enough data yet</span></div>
+          <p class="unverified">⚠ Unverified – manual check recommended</p>
+          <a class="book-btn" href="https://www.virginaustralia.com/en-au/flights-from-newcastle-au-to-sunshine-coast" target="_blank" rel="noopener">View fare →</a>
+        </div>
+        <div class="card" style="--accent:#e40000">
+          <div class="card-header">
+            <span class="airline-name">Qantas</span>
+            <span class="badge stop">Via stopover</span>
+          </div>
+          <div class="price-row">
+            <span class="price">$474</span>
+            <span class="currency">AUD return</span>
+            
+          </div>
+          <div class="legs">
+            <div class="leg">
+              <span class="leg-label">OUT 26 Sep</span>
+              <span class="leg-info">— · — → —</span>
+            </div>
+            <div class="leg">
+              <span class="leg-label">RET 3 Oct</span>
+              <span class="leg-info">— · — → —</span>
+            </div>
+          </div>
+          <div class="spark-row"><span class='no-history'>Not enough data yet</span></div>
+          <p class="unverified">⚠ Unverified – manual check recommended</p>
+          <a class="book-btn" href="https://www.kayak.com.au/flight-routes/Newcastle-Williamtown-NTL/Maroochydore-Sunshine-Coast-MCY" target="_blank" rel="noopener">View fare →</a>
+        </div>
 </section>
 
 <div class="chart-wrap">
@@ -291,7 +363,40 @@
       </tr>
     </thead>
     <tbody>
-      <tr><td colspan="9" style="text-align:center;opacity:.5">No data yet — run the routine to populate.</td></tr>
+      
+        <tr>
+          <td>2026-06-05 20:11</td>
+          <td style="color:#ff6900;font-weight:600">Jetstar</td>
+          <td>—</td>
+          <td>— → —</td>
+          <td>—</td>
+          <td>— → —</td>
+          <td>⤳ Stop</td>
+          <td class="price-cell">$439</td>
+          <td><a href="https://www.skyscanner.com.au/routes/ntl/mcy/newcastle-williamtown-to-sunshine-coast.html" target="_blank">Link</a></td>
+        </tr>
+        <tr>
+          <td>2026-06-05 20:11</td>
+          <td style="color:#e4002b;font-weight:600">Virgin Australia</td>
+          <td>—</td>
+          <td>— → —</td>
+          <td>—</td>
+          <td>— → —</td>
+          <td>⤳ Stop</td>
+          <td class="price-cell">$442</td>
+          <td><a href="https://www.virginaustralia.com/en-au/flights-from-newcastle-au-to-sunshine-coast" target="_blank">Link</a></td>
+        </tr>
+        <tr>
+          <td>2026-06-05 20:11</td>
+          <td style="color:#e40000;font-weight:600">Qantas</td>
+          <td>—</td>
+          <td>— → —</td>
+          <td>—</td>
+          <td>— → —</td>
+          <td>⤳ Stop</td>
+          <td class="price-cell">$474</td>
+          <td><a href="https://www.kayak.com.au/flight-routes/Newcastle-Williamtown-NTL/Maroochydore-Sunshine-Coast-MCY" target="_blank">Link</a></td>
+        </tr>
     </tbody>
   </table>
 </div>
@@ -301,7 +406,7 @@
 </footer>
 
 <script>
-const chartData = {"labels": [], "datasets": []};
+const chartData = {"labels": ["2026-06-05"], "datasets": [{"label": "Jetstar", "data": [439], "borderColor": "#ff6900", "backgroundColor": "#ff690022", "tension": 0.3, "pointRadius": 4}, {"label": "Virgin Australia", "data": [442], "borderColor": "#e4002b", "backgroundColor": "#e4002b22", "tension": 0.3, "pointRadius": 4}, {"label": "Qantas", "data": [474], "borderColor": "#e40000", "backgroundColor": "#e4000022", "tension": 0.3, "pointRadius": 4}]};
 if (chartData.labels.length > 0) {
   const ctx = document.getElementById('priceChart').getContext('2d');
   new Chart(ctx, {
