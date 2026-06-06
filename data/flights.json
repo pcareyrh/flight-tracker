@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-06T20:11:11Z",
+    "airline": "Jetstar",
+    "flight_out": "JQ786",
+    "depart_out": "10:50",
+    "arrive_out": "12:25",
+    "flight_return": "JQ787",
+    "depart_return": "12:00",
+    "arrive_return": "13:35",
+    "cabin": "Economy",
+    "price_aud": 176,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/routes/syd/mcy/sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended. Times adjusted for AEST (no DST on 26 Sep / 3 Oct 2026). Price is general-range estimate ($104–240 reported across sources); specific date fare not confirmed."
+  },
+  {
+    "timestamp": "2026-06-06T20:11:11Z",
+    "airline": "Virgin Australia",
+    "flight_out": "VA485",
+    "depart_out": "08:10",
+    "arrive_out": "09:45",
+    "flight_return": "VA484",
+    "depart_return": "09:30",
+    "arrive_return": "11:05",
+    "cabin": "Economy",
+    "price_aud": 198,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. One-way fares advertised from AUD $91; return estimate $198 is conservative. Times adjusted for AEST (no DST on travel dates). Arrive MCY and depart MCY times estimated from flight duration (~1h35m)."
+  },
+  {
+    "timestamp": "2026-06-06T20:11:11Z",
+    "airline": "Qantas",
+    "flight_out": "QF1576",
+    "depart_out": "09:40",
+    "arrive_out": "11:20",
+    "flight_return": "QF1579",
+    "depart_return": "12:05",
+    "arrive_return": "13:40",
+    "cabin": "Economy",
+    "price_aud": 278,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/flight-deals/flights-from-sydney-to-sunshine-coast-maroochydore.html/syd/mcy/economy",
+    "notes": "unverified – manual check recommended. One-way economy fares advertised from AUD $139; return estimate $278 (2x minimum). QF1576 SYD→MCY and QF1579 MCY→SYD confirmed as operating flights; return arrival time adjusted for no-DST period. Specific Sep 26 / Oct 3 fare not confirmed."
+  }
+]
