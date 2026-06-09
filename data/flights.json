@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-09T20:08:32+00:00",
+    "airline": "Jetstar",
+    "flight_out": "JQ788",
+    "depart_out": "18:15",
+    "arrive_out": "19:50",
+    "flight_return": "JQ787",
+    "depart_return": "12:00",
+    "arrive_return": "13:35",
+    "cabin": "Economy",
+    "price_aud": 128,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/routes/syd/mcy/sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended. Price is lowest advertised on Skyscanner for SYD-MCY in 2026; specific Sep 26 / Oct 3 fare not confirmed. JQ788 depart time from Jun 2026 schedule; JQ787 return depart time from route data."
+  },
+  {
+    "timestamp": "2026-06-09T20:08:32+00:00",
+    "airline": "Virgin Australia",
+    "flight_out": "VA (TBC)",
+    "depart_out": "TBC",
+    "arrive_out": "TBC",
+    "flight_return": "VA (TBC)",
+    "depart_return": "TBC",
+    "arrive_return": "TBC",
+    "cabin": "Economy",
+    "price_aud": 182,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. Price is 2 × AUD $91 lowest advertised one-way fare; specific Sep 26 / Oct 3 fare not confirmed. Flight numbers and times not available from web search; Virgin Australia operates multiple daily SYD-MCY direct services (~1h 35m)."
+  },
+  {
+    "timestamp": "2026-06-09T20:08:32+00:00",
+    "airline": "Qantas",
+    "flight_out": "QF1576",
+    "depart_out": "09:40",
+    "arrive_out": "11:20",
+    "flight_return": "QF1577",
+    "depart_return": "TBC",
+    "arrive_return": "TBC",
+    "cabin": "Economy",
+    "price_aud": 268,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/flight-deals/flights-to-sydney.html/syd",
+    "notes": "unverified – manual check recommended. QF1576 depart/arrive times confirmed from route data (SYD 09:40 → MCY 11:20). Price is estimate based on ~$134/way general low fare; specific Sep 26 / Oct 3 fare not confirmed. Return flight QF1577 times not confirmed from searches."
+  }
+]
