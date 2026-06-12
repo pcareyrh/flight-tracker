@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-12T20:10:11+00:00",
+    "airline": "Jetstar",
+    "flight_out": "JQ784",
+    "depart_out": "06:10",
+    "arrive_out": "07:45",
+    "flight_return": "JQ785",
+    "depart_return": "08:20",
+    "arrive_return": "10:00",
+    "cabin": "Economy",
+    "price_aud": 299,
+    "direct": true,
+    "source_url": "https://www.jetstar.com/au/en/flights/sunshine-coast",
+    "notes": "unverified – manual check recommended. Price estimate based on aggregator indicative fares (Skyscanner from $128 return for route; KAYAK from $64 one-way); specific 26 Sep / 3 Oct date pricing not confirmed. JQ784 schedule 06:10-07:45 from Aviability/FlightMapper; JQ785 08:20-10:00 valid Jul 1–Oct 3 per airportia.com."
+  },
+  {
+    "timestamp": "2026-06-12T20:10:11+00:00",
+    "airline": "Virgin Australia",
+    "flight_out": "VA485",
+    "depart_out": "09:11",
+    "arrive_out": "10:50",
+    "flight_return": "VA484",
+    "depart_return": "10:23",
+    "arrive_return": "12:02",
+    "cabin": "Economy",
+    "price_aud": 328,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. Price estimate based on Virgin Australia route minimum of $91/one-way (virginaustralia.com); specific date pricing not confirmed. VA485 depart time 09:11 from schedule data (operates weekdays – Saturday 26 Sep operation not confirmed). VA484 depart 10:23 MCY from flightera.net; arrival estimated at 12:02 (~1h39m)."
+  },
+  {
+    "timestamp": "2026-06-12T20:10:11+00:00",
+    "airline": "Qantas",
+    "flight_out": "QF1578",
+    "depart_out": "19:45",
+    "arrive_out": "21:20",
+    "flight_return": "QF1577",
+    "depart_return": "12:05",
+    "arrive_return": "14:00",
+    "cabin": "Economy",
+    "price_aud": 399,
+    "direct": true,
+    "source_url": "https://www.qantas.com/en-au/book/flights",
+    "notes": "unverified – manual check recommended. Price estimate based on Travelocity route minimum ~$104/one-way; specific date pricing not confirmed. QF1578 departs SYD 19:45 arrives MCY 21:20 per utiket.com/airportia; operates 5 days/week – Saturday 26 Sep operation not confirmed. QF1577 MCY 12:05 → SYD 14:00 per FlightMapper."
+  }
+]
