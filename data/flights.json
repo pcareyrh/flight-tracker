@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-13T00:00:00+00:00",
+    "airline": "Jetstar",
+    "flight_out": "JQ786",
+    "depart_out": "10:50",
+    "arrive_out": "12:25",
+    "flight_return": "JQ787",
+    "depart_return": "12:00",
+    "arrive_return": "13:35",
+    "cabin": "Economy",
+    "price_aud": 299,
+    "direct": true,
+    "source_url": "https://www.jetstar.com/au/en/flights/sunshine-coast",
+    "notes": "unverified – manual check recommended. General cheapest return ~$104 (off-peak); Sep school-holiday weekend premium estimated. JQ786 departs T2. Sep 26 & Oct 3 both AEST (no DST offset). Times adjusted for same-timezone operation."
+  },
+  {
+    "timestamp": "2026-06-13T00:00:00+00:00",
+    "airline": "Virgin Australia",
+    "flight_out": "VA493",
+    "depart_out": "12:50",
+    "arrive_out": "14:25",
+    "flight_return": "VA492",
+    "depart_return": "13:35",
+    "arrive_return": "15:10",
+    "cabin": "Economy",
+    "price_aud": 359,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. General cheapest return ~$133 (off-peak); Sep school-holiday weekend premium estimated. VA491 discontinued as of 2022; VA493/VA492 schedules from 2026 data. Times in AEST (both states)."
+  },
+  {
+    "timestamp": "2026-06-13T00:00:00+00:00",
+    "airline": "Qantas",
+    "flight_out": "QF1578",
+    "depart_out": "19:45",
+    "arrive_out": "21:20",
+    "flight_return": "QF1589",
+    "depart_return": "11:10",
+    "arrive_return": "12:45",
+    "cabin": "Economy",
+    "price_aud": 499,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/flight-deals/flights-from-sydney-to-sunshine-coast-maroochydore.html/syd/mcy/economy",
+    "notes": "unverified – manual check recommended. QF1578 typically operates Mon-Fri and Sun (NOT Saturday); Saturday 26 Sep 2026 service unconfirmed – may operate under different flight number or no service. General cheapest return ~$247 (off-peak); school holiday premium estimated. A220-300 aircraft. Times in AEST."
+  }
+]
