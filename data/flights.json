@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-14T20:10:37Z",
+    "airline": "Jetstar",
+    "flight_out": "JQ786",
+    "depart_out": "13:50",
+    "arrive_out": "15:25",
+    "flight_return": "JQ787",
+    "depart_return": "16:05",
+    "arrive_return": "17:40",
+    "cabin": "Economy",
+    "price_aud": 218,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/routes/syd/mcy/sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended. Skyscanner shows SYD-MCY from $128 return; estimate adjusted upward for QLD school holiday period (approx Sep 19–Oct 4 2026). JQ786/JQ787 are daily services; times from schedule data."
+  },
+  {
+    "timestamp": "2026-06-14T20:10:37Z",
+    "airline": "Virgin Australia",
+    "flight_out": "VA493",
+    "depart_out": "12:15",
+    "arrive_out": "13:50",
+    "flight_return": "VA492",
+    "depart_return": "13:35",
+    "arrive_return": "16:10",
+    "cabin": "Economy",
+    "price_aud": 268,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. Virgin Australia advertises SYD-MCY from AUD $91 one-way; return estimate includes school holiday premium. VA493 departure/arrival times estimated from 1h35m schedule; VA492 departure confirmed 13:35 MCY."
+  },
+  {
+    "timestamp": "2026-06-14T20:10:37Z",
+    "airline": "Qantas",
+    "flight_out": "QF1580",
+    "depart_out": "14:50",
+    "arrive_out": "16:30",
+    "flight_return": "QF1581",
+    "depart_return": "06:55",
+    "arrive_return": "08:20",
+    "cabin": "Economy",
+    "price_aud": 349,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/flight-deals/flights-from-sydney-to-sunshine-coast-maroochydore.html/syd/mcy/economy",
+    "notes": "unverified – manual check recommended. Travelocity shows Qantas SYD-MCY from $104 one-way; return estimate includes school holiday premium. QF1580 times confirmed; QF1581 (Sat/Wed service) arrival estimated at 08:20 based on 1h25m avg flight time."
+  }
+]
