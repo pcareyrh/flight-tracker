@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-15T20:13:00Z",
+    "airline": "Jetstar",
+    "flight_out": "JQ786",
+    "depart_out": "10:50",
+    "arrive_out": "12:25",
+    "flight_return": "JQ791",
+    "depart_return": "19:05",
+    "arrive_return": "20:45",
+    "cabin": "Economy",
+    "price_aud": 279,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/routes/syd/mcy/sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended; dates fall in QLD Spring holidays (19 Sep–5 Oct) & NSW school holidays (28 Sep–9 Oct); general return fares from ~$128 off-peak, school holiday premium applied"
+  },
+  {
+    "timestamp": "2026-06-15T20:13:00Z",
+    "airline": "Virgin Australia",
+    "flight_out": "VA477",
+    "depart_out": "09:05",
+    "arrive_out": "10:40",
+    "flight_return": "VA484",
+    "depart_return": "12:45",
+    "arrive_return": "14:20",
+    "cabin": "Economy",
+    "price_aud": 389,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended; VA477 may not operate Sep 2026 (last tracked schedule Oct 2025); verify current VA SYD-MCY service before booking"
+  },
+  {
+    "timestamp": "2026-06-15T20:13:00Z",
+    "airline": "Qantas",
+    "flight_out": "QF1578",
+    "depart_out": "19:45",
+    "arrive_out": "21:25",
+    "flight_return": "QF1589",
+    "depart_return": "11:10",
+    "arrive_return": "13:00",
+    "cabin": "Economy",
+    "price_aud": 499,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/book/flights",
+    "notes": "unverified – manual check recommended; QF1589 MCY-SYD schedule confirmed until Mar 2026 (winter season); summer 2026 schedule may use different flight number"
+  }
+]
