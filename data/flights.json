@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-16T20:06:07+00:00",
+    "airline": "Jetstar",
+    "flight_out": "",
+    "depart_out": "",
+    "arrive_out": "",
+    "flight_return": "",
+    "depart_return": "",
+    "arrive_return": "",
+    "cabin": "Economy",
+    "price_aud": 128,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/routes/syd/mcy/sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended. Web search could not retrieve a live fare or flight schedule for the specific 26 Sep/3 Oct 2026 dates (booking sites are JS-rendered and blocked direct fetch); price is the general 'from' return fare advertised for this route, not date-confirmed."
+  },
+  {
+    "timestamp": "2026-06-16T20:06:07+00:00",
+    "airline": "Virgin Australia",
+    "flight_out": "",
+    "depart_out": "",
+    "arrive_out": "",
+    "flight_return": "",
+    "depart_return": "",
+    "arrive_return": "",
+    "cabin": "Economy",
+    "price_aud": 182,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sunshine-coast-to-sydney",
+    "notes": "unverified – manual check recommended. No date-specific fare could be confirmed via web search; price_aud is a rough estimate (2x the advertised one-way 'from $91' fare on virginaustralia.com for this route), not a confirmed return fare for the requested dates."
+  },
+  {
+    "timestamp": "2026-06-16T20:06:07+00:00",
+    "airline": "Qantas",
+    "flight_out": "",
+    "depart_out": "",
+    "arrive_out": "",
+    "flight_return": "",
+    "depart_return": "",
+    "arrive_return": "",
+    "cabin": "Economy",
+    "price_aud": 247,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/flights/airline-flights-to-airport/mcy/qantas-qf/cheap-flights-with-qantas-qf-flights-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. Price found ($247) was for a different date range (18-21 Jun 2026), not the requested 26 Sep/3 Oct 2026 dates; no date-specific fare could be confirmed via web search."
+  }
+]
