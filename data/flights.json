@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-17T00:00:00+00:00",
+    "airline": "Jetstar",
+    "flight_out": "JQ784",
+    "depart_out": "06:05",
+    "arrive_out": "07:40",
+    "flight_return": "JQ785",
+    "depart_return": "07:20",
+    "arrive_return": "10:00",
+    "cabin": "Economy",
+    "price_aud": 128,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/routes/syd/mcy/sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended. Skyscanner shows SYD-MCY return from $128 in 2026; JQ784/JQ785 schedule sourced from flight.info & airportia; JQ785 schedule update effective 2026-10-04 – confirm Oct 3 timing directly with Jetstar."
+  },
+  {
+    "timestamp": "2026-06-17T00:00:00+00:00",
+    "airline": "Virgin Australia",
+    "flight_out": "VA487",
+    "depart_out": "09:05",
+    "arrive_out": "10:40",
+    "flight_return": "VA484",
+    "depart_return": "09:30",
+    "arrive_return": "12:05",
+    "cabin": "Economy",
+    "price_aud": 182,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sunshine-coast-to-sydney",
+    "notes": "unverified – manual check recommended. Virgin Australia shows MCY-SYD from AUD $91 one-way; return price estimated at ~$182. VA487 (SYD→MCY 09:05–10:40) and VA484 (MCY→SYD 09:30–12:05) schedules from airportia/flightera."
+  },
+  {
+    "timestamp": "2026-06-17T00:00:00+00:00",
+    "airline": "Qantas",
+    "flight_out": "QF1576",
+    "depart_out": "",
+    "arrive_out": "",
+    "flight_return": "QF1577",
+    "depart_return": "",
+    "arrive_return": "",
+    "cabin": "Economy",
+    "price_aud": 280,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/flights/airline-flights-to-airport/mcy/qantas-qf/cheap-flights-with-qantas-qf-flights-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. Qantas operates SYD-MCY direct (flight numbers QF1576/QF1577 per airlineinformation.com); departure times and exact price for Sep 26 / Oct 3 2026 not confirmed in search results – price estimated from general market data."
+  }
+]
