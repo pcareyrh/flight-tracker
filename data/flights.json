@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-18T20:09:01Z",
+    "airline": "Jetstar",
+    "flight_out": "JQ786",
+    "depart_out": "13:50",
+    "arrive_out": "15:25",
+    "flight_return": "JQ787",
+    "depart_return": "12:00",
+    "arrive_return": "13:15",
+    "cabin": "Economy",
+    "price_aud": 128,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/routes/syd/mcy/sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended. General lowest available fare from Skyscanner for SYD-MCY route; not confirmed for specific Sep 26 / Oct 3 2026 dates."
+  },
+  {
+    "timestamp": "2026-06-18T20:09:01Z",
+    "airline": "Virgin Australia",
+    "flight_out": "VA487",
+    "depart_out": "09:05",
+    "arrive_out": "10:40",
+    "flight_return": "VA488",
+    "depart_return": "11:20",
+    "arrive_return": "13:00",
+    "cabin": "Economy",
+    "price_aud": 182,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. Estimated return price based on $91 one-way fare shown on virginaustralia.com; VA488 may not operate Saturdays – verify Oct 3 availability."
+  },
+  {
+    "timestamp": "2026-06-18T20:09:01Z",
+    "airline": "Qantas",
+    "flight_out": "QF1576",
+    "depart_out": "09:40",
+    "arrive_out": "11:20",
+    "flight_return": "QF1579",
+    "depart_return": "08:15",
+    "arrive_return": "09:55",
+    "cabin": "Economy",
+    "price_aud": 247,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/flight-deals/flights-from-sydney-to-sunshine-coast-maroochydore.html/syd/mcy/economy",
+    "notes": "unverified – manual check recommended. General lowest available economy fare from qantas.com; not confirmed for specific Sep 26 / Oct 3 2026 dates."
+  }
+]
