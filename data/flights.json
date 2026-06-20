@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "timestamp": "2026-06-20T20:06:57+00:00",
+    "airline": "Jetstar",
+    "flight_out": "JQ786",
+    "depart_out": "06:05",
+    "arrive_out": "07:40",
+    "flight_return": "JQ787",
+    "depart_return": "N/A",
+    "arrive_return": "N/A",
+    "cabin": "Economy",
+    "price_aud": 128,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/routes/syd/mcy/sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended; general 'from' price for SYD-MCY, not confirmed for Sep 26/Oct 3 2026 specifically. JQ786 depart/arrive times from published schedule; return flight number and times not confirmed."
+  },
+  {
+    "timestamp": "2026-06-20T20:06:57+00:00",
+    "airline": "Jetstar",
+    "flight_out": "JQ788",
+    "depart_out": "13:20",
+    "arrive_out": "14:55",
+    "flight_return": "JQ789",
+    "depart_return": "N/A",
+    "arrive_return": "N/A",
+    "cabin": "Economy",
+    "price_aud": 128,
+    "direct": true,
+    "source_url": "https://info.flightmapper.net/route/Jetstar_JQ_SYD_MCY",
+    "notes": "unverified – manual check recommended; JQ788 second daily Jetstar service SYD-MCY. Price is general route estimate; specific Sep 26/Oct 3 2026 pricing not confirmed. Return flight number and times not confirmed."
+  },
+  {
+    "timestamp": "2026-06-20T20:06:57+00:00",
+    "airline": "Virgin Australia",
+    "flight_out": "N/A",
+    "depart_out": "N/A",
+    "arrive_out": "N/A",
+    "flight_return": "N/A",
+    "depart_return": "N/A",
+    "arrive_return": "N/A",
+    "cabin": "Economy",
+    "price_aud": 125,
+    "direct": true,
+    "source_url": "https://www.travelocity.com/lp/flight-routes/virgin-australia-from-kingsford-smith-intl-to-sunshine-coast/va/syd/mcy",
+    "notes": "unverified – manual check recommended; round-trip 'from' price sourced from aggregator general data, not confirmed for Sep 26/Oct 3 2026. Flight numbers and times not confirmed."
+  },
+  {
+    "timestamp": "2026-06-20T20:06:57+00:00",
+    "airline": "Qantas",
+    "flight_out": "N/A",
+    "depart_out": "N/A",
+    "arrive_out": "N/A",
+    "flight_return": "QF5787",
+    "depart_return": "12:00",
+    "arrive_return": "14:40",
+    "cabin": "Economy",
+    "price_aud": 247,
+    "direct": true,
+    "source_url": "https://www.google.com/travel/flights/flights-from-sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended; price sourced from general search result ('cheapest Qantas SYD-MCY was $247 Jun 18-21'), not confirmed for Sep 26/Oct 3 2026. Outbound flight number not confirmed. Return QF5787 is a Jetstar-operated codeshare (MCY 12:00 → SYD 14:40); times may be affected by NSW daylight saving if travel is in Oct."
+  }
+]
