@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-21T20:07:16Z",
+    "airline": "Jetstar",
+    "flight_out": "JQ788",
+    "depart_out": "13:20",
+    "arrive_out": "13:55",
+    "flight_return": "JQ787",
+    "depart_return": "12:00",
+    "arrive_return": "13:35",
+    "cabin": "Economy",
+    "price_aud": 128,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/routes/syd/mcy/sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended. Skyscanner 2026 low estimate for SYD-MCY; Sep-26 / Oct-3 date-specific fare not confirmed. JQ787/JQ788 run daily (confirmed via FlightAware/Airportia). Return arrive time estimated from 1h35m avg sector time."
+  },
+  {
+    "timestamp": "2026-06-21T20:07:16Z",
+    "airline": "Virgin Australia",
+    "flight_out": "VA487",
+    "depart_out": "09:05",
+    "arrive_out": "10:40",
+    "flight_return": "VA484",
+    "depart_return": "12:45",
+    "arrive_return": "15:20",
+    "cabin": "Economy",
+    "price_aud": 240,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. VA advertises SYD-MCY from AUD $91 one-way; return estimate based on ~$91 each way plus typical booking margin. VA487/VA484 schedules confirmed via FlightAware (B737-800, operates 6x/week)."
+  },
+  {
+    "timestamp": "2026-06-21T20:07:16Z",
+    "airline": "Qantas",
+    "flight_out": "QF1576",
+    "depart_out": "09:40",
+    "arrive_out": "11:20",
+    "flight_return": "QF1577",
+    "depart_return": "—",
+    "arrive_return": "—",
+    "cabin": "Economy",
+    "price_aud": 350,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/flight-deals/flights-from-sydney-to-sunshine-coast-maroochydore.html/syd/mcy/economy",
+    "notes": "unverified – manual check recommended. QF1576 (SYD 09:40→MCY 11:20, A220-300) confirmed via Trip.com/FlightAware. QF1577 return times not retrieved. Price estimated from $281 lowest Qantas round-trip found for other 2026 dates; Sep is cheaper month so $350 is conservative estimate. Codeshare route operated by Jetstar."
+  }
+]
