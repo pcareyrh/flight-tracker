@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-23T20:09:07Z",
+    "airline": "Jetstar",
+    "flight_out": "via SYD",
+    "depart_out": "",
+    "arrive_out": "",
+    "flight_return": "via SYD",
+    "depart_return": "",
+    "arrive_return": "",
+    "cabin": "Economy",
+    "price_aud": 379,
+    "direct": false,
+    "source_url": "https://www.skyscanner.com.au/routes/ntl/mcy/newcastle-williamtown-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended. No direct NTL-MCY flights; connection via SYD. Skyscanner 2026 low price; Sep 26/Oct 3 dates not confirmed."
+  },
+  {
+    "timestamp": "2026-06-23T20:09:07Z",
+    "airline": "Virgin Australia",
+    "flight_out": "via SYD",
+    "depart_out": "",
+    "arrive_out": "",
+    "flight_return": "via SYD",
+    "depart_return": "",
+    "arrive_return": "",
+    "cabin": "Economy",
+    "price_aud": 634,
+    "direct": false,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-newcastle-au-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. No direct NTL-MCY flights; connection via SYD. Price estimated from VA advertised one-way from $317; Sep 26/Oct 3 dates not confirmed."
+  },
+  {
+    "timestamp": "2026-06-23T20:09:07Z",
+    "airline": "Qantas",
+    "flight_out": "via SYD",
+    "depart_out": "",
+    "arrive_out": "",
+    "flight_return": "via SYD",
+    "depart_return": "",
+    "arrive_return": "",
+    "cabin": "Economy",
+    "price_aud": 559,
+    "direct": false,
+    "source_url": "https://au.trip.com/flights/newcastle-to-sunshine-coast/airfares-ntl-mcy/",
+    "notes": "unverified – manual check recommended. No direct NTL-MCY flights; connection via SYD. Return price from Trip.com/aggregators; Sep 26/Oct 3 dates not confirmed."
+  }
+]
