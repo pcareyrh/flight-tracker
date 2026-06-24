@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-24T20:07:44Z",
+    "airline": "Jetstar",
+    "flight_out": "JQ788",
+    "depart_out": "unknown",
+    "arrive_out": "unknown",
+    "flight_return": "JQ787",
+    "depart_return": "16:05",
+    "arrive_return": "17:50",
+    "cabin": "Economy",
+    "price_aud": 128,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/routes/syd/mcy/sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended. Price is the cheapest advertised for SYD-MCY in 2026 per Skyscanner; not confirmed for 26 Sep / 3 Oct specifically. Return flight JQ787 (MCY→SYD ~16:05→17:50) from schedule history. Outbound flight number and times not confirmed for this date."
+  },
+  {
+    "timestamp": "2026-06-24T20:07:44Z",
+    "airline": "Virgin Australia",
+    "flight_out": "VA485",
+    "depart_out": "unknown",
+    "arrive_out": "unknown",
+    "flight_return": "VA484",
+    "depart_return": "09:30",
+    "arrive_return": "12:10",
+    "cabin": "Economy",
+    "price_aud": 182,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. Price is 2× the $91 one-way minimum fare published by Virgin Australia for SYD-MCY; not confirmed for 26 Sep / 3 Oct specifically. VA485 is a SYD→MCY daily service; times not confirmed for this date. VA484 return (MCY→SYD ~09:30→12:10) from schedule history."
+  },
+  {
+    "timestamp": "2026-06-24T20:07:44Z",
+    "airline": "Qantas",
+    "flight_out": "QF1580",
+    "depart_out": "14:50",
+    "arrive_out": "unknown",
+    "flight_return": "QF1577",
+    "depart_return": "12:41",
+    "arrive_return": "unknown",
+    "cabin": "Economy",
+    "price_aud": 298,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/flight-deals/flights-from-sydney-to-sunshine-coast-maroochydore.html/syd/mcy/economy",
+    "notes": "unverified – manual check recommended. Price estimated at $298 return based on general route pricing ($247 cheapest one-way published for SYD-MCY); late September/early October pricing not confirmed. QF1580 (SYD→MCY ~14:50) and QF1577 (MCY→SYD ~12:41) from schedule history; arrival times not confirmed for these dates."
+  }
+]
