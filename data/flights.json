@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-25T20:07:05Z",
+    "airline": "Jetstar",
+    "flight_out": "JQ784",
+    "depart_out": "06:05",
+    "arrive_out": "07:40",
+    "flight_return": "JQ785",
+    "depart_return": "08:15",
+    "arrive_return": "10:00",
+    "cabin": "Economy",
+    "price_aud": 199,
+    "direct": true,
+    "source_url": "https://www.jetstar.com/au/en/flights/sunshine-coast",
+    "notes": "unverified – manual check recommended. Schedule from flightmapper.net/airportia. Price estimated from Skyscanner range ($128–$199 return for SYD-MCY); Sep 26 is a Saturday. Verify at jetstar.com for exact fare."
+  },
+  {
+    "timestamp": "2026-06-25T20:07:05Z",
+    "airline": "Virgin Australia",
+    "flight_out": "VA487",
+    "depart_out": "09:05",
+    "arrive_out": "10:40",
+    "flight_return": "VA484",
+    "depart_return": "09:30",
+    "arrive_return": "12:10",
+    "cabin": "Economy",
+    "price_aud": 258,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. VA487 operates Mon/Tue/Wed/Thu/Sat/Sun – runs on Sep 26 Sat. VA484 operates daily – runs on Oct 3 Sat. Price estimated from reported range ($133–$258 return for SYD-MCY). Verify at virginaustralia.com."
+  },
+  {
+    "timestamp": "2026-06-25T20:07:05Z",
+    "airline": "Qantas",
+    "flight_out": "QF1576",
+    "depart_out": "09:40",
+    "arrive_out": "11:20",
+    "flight_return": "QF1577",
+    "depart_return": "12:05",
+    "arrive_return": "14:00",
+    "cabin": "Economy",
+    "price_aud": 398,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/book-a-trip/flights.html",
+    "notes": "unverified – manual check recommended. QF1576 operates daily; QF1577 operates daily. QF1579 (07:00 depart) confirmed Mon–Fri only, not running Oct 3 Sat. Price estimated from Skyscanner ($196 return) and one-way data ($247 one-way Jun 2026); Sep/Oct Saturday fare likely higher. Verify at qantas.com."
+  }
+]
