@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-06-26T20:10:11+00:00",
+    "airline": "Jetstar",
+    "flight_out": "JQ788",
+    "depart_out": "13:20",
+    "arrive_out": "14:55",
+    "flight_return": "JQ791",
+    "depart_return": "13:10",
+    "arrive_return": "14:50",
+    "cabin": "Economy",
+    "price_aud": 240,
+    "direct": true,
+    "source_url": "https://www.jetstar.com/au/en/home",
+    "notes": "unverified – manual check recommended; JQ788 13:20 SYD→MCY (arrive est. 14:55); JQ791 schedule listed effective to ~02 Oct, confirm Oct 3 availability; price ~$240 AUD return from aggregator data"
+  },
+  {
+    "timestamp": "2026-06-26T20:10:11+00:00",
+    "airline": "Virgin Australia",
+    "flight_out": "VA—",
+    "depart_out": "06:05",
+    "arrive_out": "07:40",
+    "flight_return": "VA484",
+    "depart_return": "—",
+    "arrive_return": "—",
+    "cabin": "Economy",
+    "price_aud": 182,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended; earliest SYD departure 06:05, multiple daily flights; return times for VA484 MCY→SYD not confirmed; price est. ~$91 one-way × 2 from Virgin AU website"
+  },
+  {
+    "timestamp": "2026-06-26T20:10:11+00:00",
+    "airline": "Qantas",
+    "flight_out": "QF1578",
+    "depart_out": "19:45",
+    "arrive_out": "21:25",
+    "flight_return": "QF—",
+    "depart_return": "—",
+    "arrive_return": "—",
+    "cabin": "Economy",
+    "price_aud": 278,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/flight-deals/flights-from-sydney-to-sunshine-coast-maroochydore.html/syd/mcy/economy",
+    "notes": "unverified – manual check recommended; QF1578 19:45 SYD → 21:25 MCY confirmed schedule; return flight number and times not confirmed; price est. ~$139 one-way (Oct–Dec 2026) × 2 from search data"
+  }
+]
