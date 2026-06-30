@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "timestamp": "2026-06-30T20:05:10+00:00",
+    "airline": "Jetstar",
+    "flight_out": "",
+    "depart_out": "",
+    "arrive_out": "",
+    "flight_return": "",
+    "depart_return": "",
+    "arrive_return": "",
+    "cabin": "Economy",
+    "price_aud": 141,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/routes/syd/mcy/sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended. Booking sites (Jetstar, Skyscanner, Webjet, Google Flights) returned 403/blocked search results for the exact 26 Sep-3 Oct 2026 dates; price is extrapolated from a nearby Skyscanner quote (dep 30 Sep, ret 7 Oct 2026, $141 return) and general route pricing ($104-141 return seen across sources). Flight numbers/times not confirmed."
+  },
+  {
+    "timestamp": "2026-06-30T20:05:10+00:00",
+    "airline": "Virgin Australia",
+    "flight_out": "",
+    "depart_out": "",
+    "arrive_out": "",
+    "flight_return": "",
+    "depart_return": "",
+    "arrive_return": "",
+    "cabin": "Economy",
+    "price_aud": 174,
+    "direct": true,
+    "source_url": "https://www.virginaustralia.com/en-au/flights-from-sydney-to-sunshine-coast",
+    "notes": "unverified – manual check recommended. Virgin Australia's site advertises one-way fares 'from AUD $87'; this record doubles that floor as a return-fare estimate since the live fare search would not render for an automated fetch. Not confirmed for the exact 26 Sep-3 Oct 2026 dates. Flight numbers/times not confirmed."
+  }
+]

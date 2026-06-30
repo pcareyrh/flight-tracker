@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Flight price tracker: NTL → MCY (Newcastle NSW → Sunshine Coast QLD)
+Flight price tracker: SYD → MCY (Sydney Airport, NSW → Sunshine Coast QLD)
 Outbound: 26 Sep 2026 | Return: 3 Oct 2026
 
 Run this script to fetch current prices and append to data/flights.json and data/flights.csv.
@@ -14,7 +14,7 @@ import sys
 from datetime import datetime, timezone
 
 # ── Constants ───────────────────────────────────────────────────────────────
-ORIGIN      = "NTL"   # Newcastle Airport, NSW
+ORIGIN      = "SYD"   # Sydney Airport, NSW
 DESTINATION = "MCY"   # Sunshine Coast Airport, QLD
 DEPART_DATE = "2026-09-26"
 RETURN_DATE = "2026-10-03"
@@ -24,10 +24,10 @@ CSV_FILE    = os.path.join(DATA_DIR, "flights.csv")
 
 # ── Search queries Claude should use ─────────────────────────────────────────
 SEARCH_QUERIES = [
-    f"Jetstar flights Newcastle to Sunshine Coast 26 September 2026 return 3 October 2026 price",
-    f"Virgin Australia flights NTL MCY 26 Sep 2026 return 3 Oct 2026 fare",
-    f"Qantas flights Newcastle NSW Sunshine Coast QLD 26 September 2026 return October 3 price",
-    f"cheapest flights Newcastle Airport to Sunshine Coast Airport September 26 October 3 2026",
+    f"Jetstar flights Sydney to Sunshine Coast 26 September 2026 return 3 October 2026 price",
+    f"Virgin Australia flights SYD MCY 26 Sep 2026 return 3 Oct 2026 fare",
+    f"Qantas flights Sydney NSW Sunshine Coast QLD 26 September 2026 return October 3 price",
+    f"cheapest flights Sydney Airport to Sunshine Coast Airport September 26 October 3 2026",
 ]
 
 CSV_HEADERS = [
@@ -103,7 +103,7 @@ def append_records(new_records: list[dict]):
 ROUTINE_INSTRUCTIONS = """
 CLAUDE ROUTINE INSTRUCTIONS
 ============================
-You are running the NTL→MCY flight price tracker.
+You are running the SYD→MCY flight price tracker.
 
 TASK:
 1. Use your web_search tool with the queries listed in SEARCH_QUERIES above.
