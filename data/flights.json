@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "timestamp": "2026-07-01T23:01:52Z",
+    "airline": "Jetstar",
+    "flight_out": "JQ788",
+    "depart_out": "unconfirmed",
+    "arrive_out": "unconfirmed",
+    "flight_return": "JQ785",
+    "depart_return": "unconfirmed",
+    "arrive_return": "unconfirmed",
+    "cabin": "Economy",
+    "price_aud": 141,
+    "direct": true,
+    "source_url": "https://www.skyscanner.com.au/routes/syd/mcy/sydney-to-sunshine-coast.html",
+    "notes": "unverified – manual check recommended. Booking sites (Skyscanner, Webjet, Google Flights, Jetstar.com) returned 403/blocked on direct fetch, so this is based on search snippets only. Nearest confirmed data point was a $141 return fare for a close-but-different date pair (30 Sep - 7 Oct 2026); general 2026 fares for this route start around $104-128 return. Flight numbers JQ788/JQ785 are typical daily schedule numbers for this route, not confirmed for 26 Sep/3 Oct 2026 specifically."
+  },
+  {
+    "timestamp": "2026-07-01T23:01:52Z",
+    "airline": "Virgin Australia",
+    "flight_out": "VA485",
+    "depart_out": "unconfirmed",
+    "arrive_out": "unconfirmed",
+    "flight_return": "VA484",
+    "depart_return": "unconfirmed",
+    "arrive_return": "unconfirmed",
+    "cabin": "Economy",
+    "price_aud": 135,
+    "direct": true,
+    "source_url": "https://www.travelocity.com/lp/flight-routes/virgin-australia-from-kingsford-smith-intl-to-sunshine-coast/va/syd/mcy",
+    "notes": "unverified – manual check recommended. Price estimated by summing one-way fares seen in search snippets ($48 SYD-MCY + $87 MCY-SYD); not a confirmed return total for the exact 26 Sep/3 Oct 2026 dates. Flight numbers VA485/VA484 are typical schedule numbers for this route, not confirmed for these specific dates."
+  },
+  {
+    "timestamp": "2026-07-01T23:01:52Z",
+    "airline": "Qantas",
+    "flight_out": "QF1576",
+    "depart_out": "unconfirmed",
+    "arrive_out": "unconfirmed",
+    "flight_return": "QF1577",
+    "depart_return": "unconfirmed",
+    "arrive_return": "unconfirmed",
+    "cabin": "Economy",
+    "price_aud": 275,
+    "direct": true,
+    "source_url": "https://www.qantas.com/au/en/flight-deals/flights-from-sydney-to-sunshine-coast-maroochydore.html/syd/mcy/economy",
+    "notes": "unverified – manual check recommended. Only a general fare range ($200-$350+ return) was found for this route; no exact price for 26 Sep/3 Oct 2026 confirmed (Qantas.com fetch was blocked). Flight numbers QF1576/QF1577 are typical schedule numbers for this route, not confirmed for these specific dates."
+  }
+]
